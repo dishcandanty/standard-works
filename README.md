@@ -1,6 +1,9 @@
 # StandardWorks
 
-TODO: Delete this and the text above, and describe your gem
+Simple gem that turns references into text. Uses the [LDS StandardWorks](https://www.lds.org/topics/standard-works)
+
+The source text is included in the gem (No API Calls), and source is from (thanks mr Ben Crowder!): https://github.com/bcbooks/scriptures-json
+
 
 ## Installation
 
@@ -12,7 +15,7 @@ gem 'standard_works'
 
 And then execute:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
