@@ -1,6 +1,6 @@
 # StandardWorks
 
-Simple gem that turns references into text. Uses the [LDS StandardWorks](https://www.lds.org/topics/standard-works)
+Simple gem that turns scripture references into text. Uses the [LDS StandardWorks](https://www.lds.org/topics/standard-works)
 
 The source text is included in the gem (No API Calls), and source is from (thanks mr Ben Crowder!): https://github.com/bcbooks/scriptures-json
 
